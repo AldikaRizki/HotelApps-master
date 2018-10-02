@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HotelApp</string>
+
+    <string name="action_setting">Setting</string>
+    <string name="action_bookmark">Bookmark</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello, Password wifi bisa ditanyakan ke resepsionis</string>
+    <string name="textdesc">Sebelum bertanya wifi ada baiknya memberi tip ke resepsionis
+    </string>
+</resources>
